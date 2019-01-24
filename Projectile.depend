@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1481809772 source:/home/userfs/s/sp1424/2018progFIN/game/lib/graphics_lib.c
+	<graphics_lib.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+
+1483975232 /home/userfs/s/sp1424/2018progFIN/game/inc/graphics_lib.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+
+1481193530 source:/home/userfs/s/sp1424/2018progFIN/game/lib/midi_lib.c
+	"midi_lib.h"
+
+1483976292 /home/userfs/s/sp1424/2018progFIN/game/inc/midi_lib.h
+	<stdlib.h>
+	<portmidi.h>
+	<porttime.h>
+	<stdio.h>
+
+1523636017 source:/home/userfs/s/sp1424/2018progFIN/game/src/main.c
+	<graphics_lib.h>
+	<math.h>
+	<stdlib.h>
+
